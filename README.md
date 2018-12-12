@@ -27,3 +27,5 @@ La stagiaire découvrira les concepts fondamentaux du design et du développemen
     - Fonctions
     - Interactions avec le DOM
     - Animations
+
+DISCLAIMER: Ce code est destiné à un stagiaire de 3ème et vise à expliquer les concepts basiques du HTML, CSS et potentiellement du Javascript.
