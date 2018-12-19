@@ -1,25 +1,3 @@
-html {
-  font-size: 1.5em;
-  padding: 15vh 25vw 10vh 25vw;
-  text-align: center;
-}
-
-h1,
-h2,
-h3 {
-  background-color: cadetblue;
-  text-align: center;
-}
-
 div {
-  background-color: aquamarine;
-}
-
-p {
-  background-color: blanchedalmond;
-}
-
-img {
-  border-radius: 25px;
-  margin-top: 25px;
+  color: white;
 }
