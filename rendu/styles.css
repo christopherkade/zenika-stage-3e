@@ -28,9 +28,7 @@ body {
   padding: 25px;
 }
 
-div {
-  border: 0.5px solid black;
-}
+
 
 .texte {
   background-color: #e8e8e8;
@@ -46,6 +44,11 @@ div {
   border-right: none;
   text-align: center;
 }
+.sans-bordure-droite > ul{
+  display: inline;
+  text-align: left;
+
+}
 
 .sans-bordure-gauche {
   border-left: none;
@@ -59,3 +62,26 @@ div {
 .image-HTML {
   width: 350px;
 }
+
+.texte >h2{
+  color: green;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
+
+.texte >button{
+  background-color: red;
+  padding: 25px;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+}
+
+/* button:hover{
+  background-color: green;
+}
+
+button:focus{
+  background-color: blue;
+} */
